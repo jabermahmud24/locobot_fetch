@@ -1,0 +1,4 @@
+[33m[1mCMake Warning[0m at /home/aljabermahmud/catkin_ws/src/interbotix_xslocobot_control/CMakeLists.txt:17 (message):
+  INTERBOTIX_XSLOCOBOT_BASE_TYPE not set.  Building using default 'create3'.
+
+

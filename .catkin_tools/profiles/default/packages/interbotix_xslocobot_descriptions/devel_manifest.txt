@@ -1,0 +1,5 @@
+interbotix_xslocobot_descriptions
+/home/aljabermahmud/catkin_ws/devel/.private/interbotix_xslocobot_descriptions/cmake.lock /home/aljabermahmud/catkin_ws/devel/./cmake.lock
+/home/aljabermahmud/catkin_ws/devel/.private/interbotix_xslocobot_descriptions/share/interbotix_xslocobot_descriptions/cmake/interbotix_xslocobot_descriptionsConfig.cmake /home/aljabermahmud/catkin_ws/devel/share/interbotix_xslocobot_descriptions/cmake/interbotix_xslocobot_descriptionsConfig.cmake
+/home/aljabermahmud/catkin_ws/devel/.private/interbotix_xslocobot_descriptions/share/interbotix_xslocobot_descriptions/cmake/interbotix_xslocobot_descriptionsConfig-version.cmake /home/aljabermahmud/catkin_ws/devel/share/interbotix_xslocobot_descriptions/cmake/interbotix_xslocobot_descriptionsConfig-version.cmake
+/home/aljabermahmud/catkin_ws/devel/.private/interbotix_xslocobot_descriptions/lib/pkgconfig/interbotix_xslocobot_descriptions.pc /home/aljabermahmud/catkin_ws/devel/lib/pkgconfig/interbotix_xslocobot_descriptions.pc

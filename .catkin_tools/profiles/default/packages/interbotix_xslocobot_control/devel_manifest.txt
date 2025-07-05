@@ -1,0 +1,5 @@
+interbotix_xslocobot_control
+/home/aljabermahmud/catkin_ws/devel/.private/interbotix_xslocobot_control/cmake.lock /home/aljabermahmud/catkin_ws/devel/./cmake.lock
+/home/aljabermahmud/catkin_ws/devel/.private/interbotix_xslocobot_control/share/interbotix_xslocobot_control/cmake/interbotix_xslocobot_controlConfig.cmake /home/aljabermahmud/catkin_ws/devel/share/interbotix_xslocobot_control/cmake/interbotix_xslocobot_controlConfig.cmake
+/home/aljabermahmud/catkin_ws/devel/.private/interbotix_xslocobot_control/share/interbotix_xslocobot_control/cmake/interbotix_xslocobot_controlConfig-version.cmake /home/aljabermahmud/catkin_ws/devel/share/interbotix_xslocobot_control/cmake/interbotix_xslocobot_controlConfig-version.cmake
+/home/aljabermahmud/catkin_ws/devel/.private/interbotix_xslocobot_control/lib/pkgconfig/interbotix_xslocobot_control.pc /home/aljabermahmud/catkin_ws/devel/lib/pkgconfig/interbotix_xslocobot_control.pc

@@ -1,0 +1,29 @@
+# Publish all joint states
+# Creates the /joint_states topic necessary in ROS
+joint_state_controller:
+  type: joint_state_controller/JointStateController
+  publish_rate: 100
+
+pan_controller:
+  type: effort_controllers/JointPositionController
+  joint: pan
+  pid: {p: 30.0, i: 1.0, d: 0.1}
+
+tilt_controller:
+  type: effort_controllers/JointPositionController
+  joint: tilt
+  pid: {p: 30.0, i: 1.0, d: 0.1}
+  
+  
+mobile_base_controller:
+    type: diff_drive_controller/DiffDriveController
+    publish_rate: 50
+    pose_covariance_diagonal: [0.001, 0.001, 0.001, 0.001, 0.001, 0.01]
+    twist_covariance_diagonal: [0.001, 0.001, 0.001, 0.001, 0.001, 0.01]
+    base_frame_id: base_link
+    cmd_vel_topic: /locobot/cmd_vel
+    odom_topic: /locobot/odom
+    enable_odom_tf: true
+    joints:
+      - left_wheel_joint
+      - right_wheel_joint

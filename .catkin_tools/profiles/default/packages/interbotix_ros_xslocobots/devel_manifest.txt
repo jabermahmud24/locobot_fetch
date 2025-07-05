@@ -1,0 +1,2 @@
+interbotix_ros_xslocobots
+/home/aljabermahmud/catkin_ws/devel/.private/interbotix_ros_xslocobots/cmake.lock /home/aljabermahmud/catkin_ws/devel/./cmake.lock

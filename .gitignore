@@ -1,0 +1,17 @@
+
+# Build/devel folders
+
+build/
+
+devel/
+
+# ROS logs, temp files
+
+*.log
+
+*.pyc
+
+# OS files
+
+.DS_Store
+
